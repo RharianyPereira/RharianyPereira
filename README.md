@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @RharianyPereira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vinds ao meu perfil!!
 
-<!---
-RharianyPereira/RharianyPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Rhariany
+
+-Estou estudando no [Alura](https://www.alura.com.br)
+-estou me desenvolcvendo na linguagem JavaScript               
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projtos desenvolvido
+
+### Você pode sentrar em contato comigo
+
+rhariany.pereira@ecola.pr.gov.br
+
+
+
+![_](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
